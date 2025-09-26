@@ -1,0 +1,95 @@
+Tu misión en esta vibeathon será construir una aplicación web complementaria que ayude a resolver estos tres puntos.
+
+
+
+La app debe conectarse directamente con la API de Google Classroom (sin depender de exports manuales o Google Apps Script).
+
+La identificación de alumnos y profesores debe hacerse por su email (el mismo que ya usan en Classroom).
+
+El objetivo no es reemplazar Classroom, sino sumar una capa de visualización y gestión que haga más simple el trabajo de alumnos, profesores y coordinadores.
+
+🍬 3. Opcionales (para quienes quieran ir más allá)
+
+Enviar notificaciones automáticas (ej: email, WhatsApp, Telegram) cuando haya nuevas tareas o cambios.
+
+⁠Generar reportes gráficos de avance (ej: % de entregas a tiempo por cohorte).
+
+⁠Incluir un módulo de asistencia integrado con las clases en Google Calendar.
+
+Implementar un sistema de roles: vista alumno, vista profesor, vista coordinador.
+
+Criterios:
+
+Usabilidad: ¿La herramienta es clara y fácil de usar para alumnos, profesores y coordinadores?
+
+Impacto: ¿Resuelve los problemas centrales de seguimiento, comunicación y métricas?
+
+Escalabilidad: ¿La solución puede adaptarse a nuevas cohortes o más cursos sin grandes cambios?
+
+Innovación: ¿El equipo propuso funcionalidades creativas que aportan valor extra?
+
+Requisitos mínimos (MVP)
+
+Para que la solución sea evaluada, debe:
+
+
+
+Conectarse con Google Classroom API y obtener datos de cursos, estudiantes, profesores y tareas.
+
+Permitir filtrar por cohorte, profesor y estado de entrega.
+
+Mostrar en un dashboard:
+
+Lista de alumnos y su progreso.
+
+Lista de profesores y sus clases.
+
+Estado de las entregas (entregado, atrasado, faltante, reentrega).
+
+
+
+
+
+¿Qué vamos a construir?
+
+ 
+
+📌 1. Contexto
+
+Semillero Digital es una organización sin fines de lucro que forma a jóvenes en situación de pobreza económica en oficios digitales para mejorar sus oportunidades de empleabilidad.
+
+Hoy utilizan Google Classroom como plataforma principal de gestión de clases, tareas y comunicaciones.
+
+Sin embargo, aunque Classroom nos resuelve la organización básica, tenemos tres problemas centrales:
+
+Seguimiento del progreso de estudiantes: No tenemos una vista consolidada del avance por alumno, clase y profesor.
+
+Comunicación poco clara: Los estudiantes pierden notificaciones importantes (links de clases, entregas, cambios de calendario).
+
+Métricas difíciles de obtener: El equipo coordinador necesita datos de asistencia, participación y entregas de manera ágil, pero extraerlos manualmente es complejo.
+
+ 
+
+✨ 2. El desafío
+
+Tu misión en esta vibeathon será construir una aplicación web complementaria que ayude a resolver estos tres puntos.
+
+La app debe conectarse directamente con la API de Google Classroom (sin depender de exports manuales o Google Apps Script).
+
+La identificación de alumnos y profesores debe hacerse por su email (el mismo que ya usan en Classroom).
+
+El objetivo no es reemplazar Classroom, sino sumar una capa de visualización y gestión que haga más simple el trabajo de alumnos, profesores y coordinadores.
+
+🍬 3. Opcionales (para quienes quieran ir más allá)
+
+Enviar notificaciones automáticas (ej: email, WhatsApp, Telegram) cuando haya nuevas tareas o cambios.
+
+⁠Generar reportes gráficos de avance (ej: % de entregas a tiempo por cohorte).
+
+⁠Incluir un módulo de asistencia integrado con las clases en Google Calendar.
+
+Implementar un sistema de roles: vista alumno, vista profesor, vista coordinador.
+
+
+
+Esto es como un moodle mas o menos, pero quisiera que este sistema de gestion academico, como lo llamarias, empecemos por el nombre y de ahi ver como hacerlo y que se funcional
